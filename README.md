@@ -1,4 +1,4 @@
-<img width="3188" height="1202" alt="frame (3)" src="Background.png" />
+<img width="3188" height="1202" alt="frame (3)" src="Background 1.png" />
 
 # 💫 About Me:
 💻 Third-year Information Technology student passionate about coding and technology<br>🌐 Interested in Software Development and modern web technologies<br>🎨 Passionate about UI/UX design and digital creativity<br>🚀 Quick learner exploring new tools, frameworks, and real-world projects<br>🤝 Enjoy collaborative development and turning ideas into practical applications<br>🌱 Continuously learning, improving, and growing as a developer<br><br>
